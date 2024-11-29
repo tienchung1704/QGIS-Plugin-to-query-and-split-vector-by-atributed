@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/phan_loai_du_lieu" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
